@@ -1,0 +1,1 @@
+window.location.replace("https://raymondwzeng.github.io/portfolio-v2/")
